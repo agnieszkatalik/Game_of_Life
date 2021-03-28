@@ -1,4 +1,4 @@
-//Talik, ¯ychowska, IS NS 2021
+//Agnieszka Talik 2021
 #include <iostream>
 #include <time.h>
 #include <cstdlib>
