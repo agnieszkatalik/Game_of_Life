@@ -1,0 +1,5 @@
+C:\Users\Aga\Desktop\SEMESTR 6\Advanced programming in Cpp\GoL\Game_of_Life\GoL\Debug\GoL.exe
+C:\Users\MediaE\Desktop\game-of-life-a-j-main\Debug\GoL.exe
+C:\Users\MediaE\Desktop\game-of-life-a-j\Debug\GoL.exe
+C:\Users\Aga\Desktop\SEMESTR 6\Advanced programming in Cpp\GoL\Nowy folder (2)\game-of-life-a-j\Debug\GoL.exe
+C:\Users\Aga\Desktop\SEMESTR 6\Advanced programming in Cpp\GoL\GoL\Game_of_Life\Debug\GoL.exe
